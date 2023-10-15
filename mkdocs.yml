@@ -11,8 +11,7 @@ theme:
         text: Ubuntu
         code: Ubuntu Mono
     language: en
-    palette:
-
+    palette
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -20,8 +19,7 @@ theme:
       accent: red
       toggle:
         icon: material/weather-sunny
-        name: Switch to dark mode
-
+        name: Switch to dark mod
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
